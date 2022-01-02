@@ -1,4 +1,4 @@
-# DDoS
+# ☠️ DDoS ☠️
 <b><i>Distributed Denial of Service<b> - Website Stress</i>
 
 <p align="center">
@@ -7,17 +7,17 @@
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Err0r-ICA&hide=ruby,perl&hide_border=true" />  -->
 </p>
 
-## Commands
+## 💿 Installation 💿
 ```
 git clone https://github.com/Err0r-ICA/DDoS
 cd DDoS
 python2 DDoS
 ```
-## Screenshot 
+## 📸 Screenshot 📸
 
 ![Screenshot](https://i.postimg.cc/Dwb9wcmq/20201106-004123.jpg)
  
-### Languages and Tools:
+### ✨ Languages and Tools ✨
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
@@ -37,7 +37,7 @@ python2 DDoS
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/></align>
 <br><br><br><br>
 
-### My Accounts
+### 👤 My Accounts 👤
 * [TELEGRAM](https://t.me/kalit3rmux)
 * [FACEBOOK](https://www.facebook.com/termuxxhacking)
 * [INSTAGRAM](https://instagram.com/termux_hacking)
